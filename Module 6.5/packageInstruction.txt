@@ -1,0 +1,14 @@
+readline-sync package need to be installed
+
+To install it Locally:
+    npm install readline-sync
+To install it globally:
+    npm install -g readline-sync
+
+    To check the path of the readline-sync package
+    npm root -g
+    To clear npm cache
+    npm cache clean --force
+    To reinstall the readline-sync package
+    rm -rf node_modules
+    npm install
